@@ -16,6 +16,6 @@ author_profile: true
 {% endfor %} -->
 
 <h3>Book Chapter</h3>
-<b>Collaborative Partnership Approach to Improve Learning Through Interactive and Innovative Blended Learning: A Case Study of the National E-Learning Resource Centre (NELRC) at the University of Kelaniya, Sri Lanka</b>
+<b style="text-align: justify"><a href="https://link.springer.com/chapter/10.1007%2F978-981-33-4106-7_3">Collaborative Partnership Approach to Improve Learning Through Interactive and Innovative Blended Learning: A Case Study of the National E-Learning Resource Centre (NELRC) at the University of Kelaniya, Sri Lanka</a></b>
 
-<p style="text-align: justify">Suraweera Namali, Yatigammana Kaushalya, Priyankara Chathura, Wijayarathna Gamini, and Ranepura Upul Jayantha.2021.Collaborative Partnership Approach to Improve Learning Through Interactive and Innovative Blended Learning:A Case Study of the National E-Learning Resource Centre (NELRC) at the University of Kelaniya, Sri Lanka. SpringerSingapore, Singapore, 43–64.</p>
+<p style="text-align: justify">Suraweera Namali, Yatigammana Kaushalya, Priyankara Chathura, Wijayarathna Gamini, and Ranepura Upul Jayantha. 2021. <i>Collaborative Partnership Approach to Improve Learning Through Interactive and Innovative Blended Learning:A Case Study of the National E-Learning Resource Centre (NELRC) at the University of Kelaniya</i>, Sri Lanka. Springer Singapore, Singapore, 43–64.</p>
